@@ -11,7 +11,7 @@ public class Demo extends AppCompatActivity {
         setContentView(R.layout.activity_demo);
         for(int i=0;i<10;i++)
         {
-
+            Log.e("print","0"+i)
         }
     }
 }
